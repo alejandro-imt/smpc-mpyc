@@ -1,0 +1,2 @@
+##### CONFIG A MANO #####
+python .\main_a.py -M3 -P localhost:6001 -P localhost:6002 -P localhost:6003 -I0
