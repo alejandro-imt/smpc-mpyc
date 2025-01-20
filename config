@@ -4,3 +4,5 @@ python .\main_split.py -M2 -P localhost:6001 -P localhost:6002 -I0
 python .\main_split.py -M2 -P localhost:6001 -P localhost:6002 -I1
 
 python .\main_dot_product.py -M3 -P localhost:6001 -P localhost:6002 -P localhost:6003 -I0
+
+python .\main_dot_product.py -P localhost:6001 -P localhost:6002 -I0
